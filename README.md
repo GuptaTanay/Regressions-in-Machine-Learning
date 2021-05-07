@@ -29,3 +29,7 @@ Where, y = Output feature
        xi = Feature point
        k = Number of feature
        c = Intercept
+
+
+
+Credits: Krish Naik sir.
